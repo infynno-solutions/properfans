@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slider {
+    width: 100%;
+    max-width: calc(100vw - 80px);
+  }
